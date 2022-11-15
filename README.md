@@ -17,8 +17,8 @@ Neste projeto pude aprender a:
 * Metodologia BEM;
 * Organização e estrutura de arquivos .css;
 * Separação de responsabilidades;
-* Criar e manter arquivos menores**;
-* Imagens ilustrativas devem estar referenciadas em nossos arquivos .css;
+* Criar e manter arquivos menores;
+* Como imagens ilustrativas devem estar referenciadas em arquivos .css;
 * Boas práticas com importação de imagens;
 * Manter as estilizações nos arquivos de estilo;
 * Tornar um site responsivo;
