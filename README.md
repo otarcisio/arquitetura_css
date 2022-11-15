@@ -1,11 +1,11 @@
 # Este projeto corresponde ao desenvolvimento do site **Fruta & Fruto** incluindo:
 
-*Cabeçalho;
-Banner;
-*Seção Sobre*;
-**Listagem de receitas**;
-**Seção Quem somos com as pessoas envolvidas na empresa**;
-**Rodapé com informações de contatos**;
+* Cabeçalho;
+* Banner;
+* Seção Sobre;
+* Listagem de receitas;
+* Seção Quem somos com as pessoas envolvidas na empresa;
+* Rodapé com informações de contatos;
 
 
 Neste projeto pude aprender a: 
