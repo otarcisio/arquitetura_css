@@ -1,8 +1,8 @@
-#Este projeto corresponde ao desenvolvimento do site **Fruta & Fruto** incluindo:
+# Este projeto corresponde ao desenvolvimento do site **Fruta & Fruto** incluindo:
 
-**Cabeçalho**;
-**Banner**;
-**Seção Sobre**;
+*Cabeçalho;
+Banner;
+*Seção Sobre*;
 **Listagem de receitas**;
 **Seção Quem somos com as pessoas envolvidas na empresa**;
 **Rodapé com informações de contatos**;
@@ -13,7 +13,7 @@ Neste projeto pude aprender a:
 **Utilizar seletores CSS mais simples**;
 **Organizar e estruturar os arquivos css do projeto**;
 **Metodologia Atomic Design**;
-**Padrão para nomear as classes de CSS****;
+**Padrão para nomear as classes de CSS**;
 **Metodologia BEM**;
 **Organização e estrutura de arquivos .css**;
 **Separação de responsabilidades**;
